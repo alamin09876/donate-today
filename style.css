@@ -147,6 +147,39 @@
 .content-six-three p{
     padding-bottom: 50px;
 }
+.content-seven{
+    display: flex;
+    width: 90%;
+    
+    margin-top:50px;
+}
+.content-seven-one img{ 
+    width: 70%;
+    margin-left:200px;
+}
+.content-seven-two{
+    width: 45%;
+    margin-left: 100px;
+}
+.content-seven-two h1{
+    font-size:40px;
+    margin-top: 30px;
+}
+.content-seven-two p{
+    font-size:20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content-seven-two a{
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid tomato;
+    
+    background-color:tomato;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+}
 .update-class{
     background-color:bisque;
     width: 40%;
